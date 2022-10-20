@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Feed the cat",
+      "dateCreated": "2022-10-19T11:00:00.000Z",
+      "dateCompleted": null
+    },
+    {
+      "id": 2,
+      "title": "Wash the dishes",
+      "dateCreated": "2022-10-19T11:10:00.000Z",
+      "dateCompleted": null
+    },
+    {
+      "id": 3,
+      "title": "Code todos demo",
+      "dateCreated": "2022-10-19T09:10:00.000Z",
+      "dateCompleted": "2022-10-20T10:20:05.814Z"
+    }
+  ]
+}
